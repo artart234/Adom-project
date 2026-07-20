@@ -2,5 +2,6 @@ Adom resolusi
 - bisa mengikuti atau tidak jadi beban di project webdev eureka
 - bisa ngaji tiap hari secara konsisten 
 - konsisten olahraga 3x seminggu 
+    * minimal 2x leg day
 - bisa buat web sendiri 
 - membuat suatu institusi pendidikan
